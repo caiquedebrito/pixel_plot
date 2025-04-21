@@ -69,7 +69,7 @@ Além de ser uma demo técnica, o projeto auxilia estudantes de sistemas embarca
 ```
 ├── CMakeLists.txt
 ├── pico_sdk_import.cmake
-├── projeto_integrador.c
+├── pixel_plot.c
 ├── ws2812.pio
 ├── .gitignore
 └── lib
